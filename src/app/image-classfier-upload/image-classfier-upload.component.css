@@ -1,0 +1,12 @@
+.cont > * {
+    margin: 15px 0; 
+}
+
+.loaded {
+    width: 300px;
+    height: 300px;
+}
+.loading {
+    width: 320px;
+    height: 230px;
+}
